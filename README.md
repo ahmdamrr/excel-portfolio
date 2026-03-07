@@ -30,7 +30,7 @@ Repositori ini terdiri dari 3 folder utama, masing-masing berisi 2 dashboard den
 
 | | |
 |---|---|
-| [![Dataset 1 - HR Analytics](https://img.shields.io/badge/📁-HR%20Analytics-blue)]() | **IBM HR Employee Attrition & Performance** <br> • Dashboard 1: Profil & Performa Karyawan <br> • Dashboard 2: Analisis Faktor Resign |
+| [![[Dataset 1 - HR Analytics](https://github.com/ahmdamrr/excel-portfolio/tree/10d58b0c36c35930588d7ed44c17782faec8aaf2/Dataset%201%20-%20HR%20Analytics)](https://img.shields.io/badge/📁-HR%20Analytics-blue)]() | **IBM HR Employee Attrition & Performance** <br> • Dashboard 1: Profil & Performa Karyawan <br> • Dashboard 2: Analisis Faktor Resign |
 | [![Finance](https://img.shields.io/badge/📁-Lending%20Club-green)]() | **Analisis Pinjaman Lending Club** <br> • Dashboard 1: [Judul dashboard lu] <br> • Dashboard 2: [Judul dashboard lu] |
 | [![Ecommerce](https://img.shields.io/badge/📁-Olist%20Ecommerce-orange)]() | **Analisis E-commerce Olist** <br> • Dashboard 1: [Judul dashboard lu] <br> • Dashboard 2: [Judul dashboard lu] |
 
