@@ -32,7 +32,7 @@ Analisis data karyawan menggunakan dataset IBM HR Analytics Employee Attrition &
 | Nama File | Deskripsi |
 |-----------|-----------|
 | `0_ibm_hr_analytics.pdf` | Portofolio lengkap dengan kedua dashboard dan insight |
-| `1_dahsboard1.pdf.png` | Preview dashboard 1 |
+| `1_dahsboard1.png` | Preview dashboard 1 |
 | `2_dahsboard2.png` | Preview dashboard 2 |
 | `3_ibm_hr_analytics.xlsx` | Portofolio lengkap dengan kedua dashboard dan insight dalam bentuk excel |
 
