@@ -40,14 +40,13 @@ Analisis data pinjaman dari Lending Club menggunakan Excel. Dataset berisi **56.
 
 ---
 
-## 🛠️ Tools & Fitur Excel yang Digunakan
+## 📊 Excel Mastery yang Didemonstrasikan
 
-| Fitur | Kegunaan |
-|-------|----------|
-| **PivotTables & PivotCharts** | Meringkas data default dan loss per kategori |
-| **Slicers & Timeline** | Filter interaktif (Loan Amount Group, Emp Length Group, periode waktu) |
-| **VLOOKUP & IF** | Grouping variabel (FICO score, DTI, emp_length) dan membuat kolom Loss |
-| **Calculated Field** | Menghitung Default Rate di PivotTable |
+- ✅ PivotTables & PivotCharts untuk analisis multi-dimensi
+- ✅ Slicers & Timeline untuk dashboard interaktif
+- ✅ Calculated Field untuk menghitung Default Rate
+- ✅ VLOOKUP untuk grouping FICO, DTI, emp_length
+- ✅ IF untuk membuat kolom Loss berdasarkan loan_status
 
 ---
 
@@ -71,24 +70,13 @@ Analisis data pinjaman dari Lending Club menggunakan Excel. Dataset berisi **56.
 
 ---
 
-## 📊 Excel Mastery yang Didemonstrasikan
-
-- ✅ PivotTables & PivotCharts untuk analisis multi-dimensi
-- ✅ Slicers & Timeline untuk dashboard interaktif
-- ✅ Calculated Field untuk menghitung Default Rate
-- ✅ VLOOKUP untuk grouping FICO, DTI, emp_length
-- ✅ IF untuk membuat kolom Loss berdasarkan loan_status
-
----
-
 ## 📱 Kontak & Kolaborasi
 
 **Ahmad Amir Hamzah**  
 Bachelor of Economics | Research & Data Enthusiast
 
 📧 **Email:** ahmadamirhmz@gmail.com  
-🔗 **LinkedIn:** [linkedin.com/in/ahmdamir](https://linkedin.com/in/ahmdamir)  
-💻 **GitHub:** [github.com/ahmdamrr/excel-portfolio](https://github.com/ahmdamrr/excel-portfolio)
+🔗 **LinkedIn:** [linkedin.com/in/ahmdamir](https://linkedin.com/in/ahmdamir)
 
 ---
 
