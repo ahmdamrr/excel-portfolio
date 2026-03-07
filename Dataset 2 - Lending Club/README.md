@@ -3,7 +3,7 @@
 ## 📌 Tentang Proyek
 Analisis data pinjaman dari Lending Club menggunakan Excel. Dataset berisi **56.160 baris** dan **14 kolom** dengan informasi peminjam, detail pinjaman, serta status pembayaran (default/lunas).
 
-**Sumber Dataset:** [Kaggle (Original)](https://www.kaggle.com/datasets/wordsforthewise/lending-club?select=rejected_2007_to_2018Q4.csv.gz) / [Zenodo (Ariza-Garzón)]((https://zenodo.org/records/11295916))
+**Sumber Dataset:** [Kaggle (Original)](https://www.kaggle.com/datasets/wordsforthewise/lending-club?select=rejected_2007_to_2018Q4.csv.gz) / [Zenodo (Ariza-Garzón)](https://zenodo.org/records/11295916))
 
 ---
 
