@@ -59,6 +59,13 @@ Analisis data pinjaman dari Lending Club menggunakan Excel. Dataset berisi **56.
 | `2_dahsboard2.png` | Preview dashboard 2 |
 | `3_lending_club.xlsx` | Portofolio lengkap dengan kedua dashboard dan insight dalam bentuk excel |
 ---
+## 🖼️ Preview Dashboard
+
+### Dashboard 1: [Credit Profile Dashboard]
+<img width="1266" height="697" alt="1_dashboard1" src="https://github.com/user-attachments/assets/3d04d6c1-b376-4980-a7cf-abdd051511fc"/>
+
+### Dashboard 2: [Portfolio Health Dashboard]
+<img width="1273" height="722" alt="2_dashboard2" src="https://github.com/user-attachments/assets/6e653ce6-90df-41ea-9abc-9e937c6d6632"/>
 
 ## 🔍 Key Findings (Ringkasan Eksekutif)
 
